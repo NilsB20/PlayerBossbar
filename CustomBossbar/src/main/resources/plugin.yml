@@ -1,0 +1,10 @@
+name: CustomBossbar
+version: '${project.version}'
+main: me.nilsb20.custombossbar.CustomBossbar
+api-version: 1.19
+authors: [ NilsB20 ]
+description: A custom Bossbar plugin
+commands:
+  playerbar:
+    description: The command to set the text of a players bossbar
+    usage: /playerbar <player name> <bossbar title>
