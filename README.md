@@ -1,4 +1,4 @@
-# Player-Bossbar
+# PlayerBossbar
 A custom Bossbar with a cool look that changes depending on the text
 ![Screenshot](screenshot.png)
 
